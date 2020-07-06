@@ -5,6 +5,7 @@
 - I highly recommend you watch the show (: - [one of the highest rating shows in IMDB](https://www.imdb.com/title/tt0903747/)
 
 <hr />
+
 ## Available Scripts
 
 In the project directory, you can run:
