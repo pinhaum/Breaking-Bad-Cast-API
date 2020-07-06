@@ -16,8 +16,6 @@ const App = () => {
         `https://www.breakingbadapi.com/api/characters?name=${query}`
       );
 
-      // console.log(result.data);
-
       setItems(result.data);
       setIsLoading(false);
     };
