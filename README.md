@@ -25,4 +25,5 @@ You will also see any lint errors in the console.
 - To learn React, check out the [React documentation](https://reactjs.org/).
 
 <hr />
+
 Gabriel de Camargo Ramos Eurich - 06/Jul/2020
