@@ -4,6 +4,8 @@
 - Bootstraped with create-react-app - 4Study
 - I highly recommend you watch the show (: - [one of the highest rating shows in IMDB](https://www.imdb.com/title/tt0903747/)
 
+You can see the result [here](https://breaking-bad-cast-api.herokuapp.com/)
+
 <hr />
 
 ## Available Scripts
@@ -18,6 +20,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 <hr />
+
+## TODO
+
+- deploys with Docker
+- tests
 
 ## Learn More
 
